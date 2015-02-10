@@ -1,0 +1,7 @@
+Put VIA in labview/vi.lib/NXT/LegoClasses
+Put VIAManager in labview/vi.lib/NXT/BrickManagers
+Restart LabVIEW
+
+To edit - edit the RunProgramOnBrick.vi in the VIA folder
+
+To make a new target - rename everything VIA to the Target Name and edit GetTargetName and CreateVIA
