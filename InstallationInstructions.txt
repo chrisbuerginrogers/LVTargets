@@ -1,5 +1,5 @@
-Put VIA in labview/vi.lib/NXT/LegoClasses
-Put VIAManager in labview/vi.lib/NXT/BrickManagers
+Put BotSpeak in labview/vi.lib/NXT/LegoClasses
+Put BotSpeakManager in labview/vi.lib/NXT/BrickManagers
 Restart LabVIEW
 
 To edit - edit the RunProgramOnBrick.vi in the VIA folder
